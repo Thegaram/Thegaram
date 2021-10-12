@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Thegaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thegaram&hide=stars&count_private=true&show_icons=true&custom_title=Thegaram's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thegaram&layout=compact&hide=Terra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **Thegaram/Thegaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
